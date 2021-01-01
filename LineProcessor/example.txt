@@ -1,0 +1,1000 @@
+1. Harry Potter and the Philosopher's Stone
+2. The Hunger Games (Suzanne Collins)
+3. Twilight
+4. To Kill a Mockingbird (Harper Lee)
+5. The Great Gatsby (F. Scott Fitzgerald)
+6. The Fault in Our Stars
+7. 1984 (George Orwell)
+8. Pride and Prejudice
+9. Divergent
+10. The Hobbit
+11. The Catcher in the Rye
+12. The Diary of a Young Girl
+13. Angels and Demons
+14. Animal Farm
+15. The Girl With the Dragon Tatoo
+16. The Kite Runner (Khalid Hosseini)
+17. The Fellowship of the Ring
+18. Gone Girl (Gillian Flynn)
+19. Lord of the Flies (William Golding)
+20. The Help
+21. The Lion, the Witch and the Wardrobe (C.S.Lewis)
+22. Romeo and Juliet
+23. The Lovely Bones (Alice Sebold)
+24. The Alchemist (Paulo Coelho)
+25. The Girl on the Train (Paula Hawkins)
+26. A Game of Thrones
+27. Of Mice and Men
+28. The Lightning Thief
+29. Fifty Shades of Grey
+30. The Book Thief
+31. The Giver (Lois Lowry)
+32. Memoirs of a Geisha (Arthur Golden)
+33. Little Women (Louisa May Alcott)
+34. Fahrenheit 451
+35. Jane Eyre
+36. City of Bones (Cassandra Clare)
+37. The Time Traveler's Wife (Audrey Niffenegger)
+38. Eat Pray Love (Elizabeth Gilbert)
+39. Eragon (Christopher Paolini)
+40. Brave New World (Aldous Huxley)
+41. Charlotte's Web (E. B. White)
+42. The Hitchhiker's Guide to the Galaxy (Douglas Adams)
+43. Water for Elephants (Sara Gruen)
+44. The Handmaid's Tale (Margaret Atwood)
+45. Life of Pi
+46. The Notebook (Nicholas Sparks)
+47. Wuthering Heights (Emily Bronte)
+48. The Golden Compass (Philip Pullman)
+49. The Little Prince
+50. The Perks of Being a Wallflower (Stephen Chbosky)
+51. Where the Sidewalk Ends (Shel Silverstein)
+52. The Curious Incident of the Dog in the Night-Time
+53. Frankenstein (Mary Shelley)
+54. The Secret Life of Bees (Sue Monk Kidd)
+55. Slaughterhouse-Five (Kurt Vonnegut)
+56. A Thousand Splendid Suns (Khaled Hosseini)
+57. Ender's Game (Orson Scott Card)
+58. The Shining (Stephen King)
+59. Looking for Alaska (John Green)
+60. Gone With the Wind
+61. Me Before You
+62. My Sister's Keeper (Jodi Picoult)
+63. A Wrinkle in Time (Madeleine L'engle)
+64. The Maze Runner (James Dashner)
+65. Night
+66. Holes
+67. Miss Peregrine's Home for Peculiar Children (Ransom Riggs)
+68. Sense and Sensibility
+69. All the Light We Cannot See
+70. Steve Jobs (Walter Isaacson)
+71. The Picture of Dorian Gray
+72. Dracula
+73. The Outsiders
+74. Bridget Jones's Diary (Helen Fielding)
+75. The Host
+76. The Giving Tree (Shel Silverstein)
+77. The Glass Castle (Jeannette Walls)
+78. Paper Towns (John Green)
+79. The Secret Garden
+80. Into the Wild (Jon Krakauer)
+81. The Odyssey
+82. Bossypants (Tina Fey)
+83. Eleanor and Park
+84. The Selection
+85. Ready Player One (Ernest Cline)
+86. A Tale of Two Cities (Charles Dickens)
+87. Where the Wild Things Are
+88. Jurassic Park (Michael Crichton)
+89. The Devil Wears Prada
+90. Outlander (Diana Gabaldon)
+91. The Old Man and the Sea
+92. The Martian (Andy Weir)
+93. The Princess Bride (William Goldman)
+94. It (Stephen King)
+95. Tuesdays With Morrie (Mitch Albom)
+96. Thirteen Reasons Why (Jay Asher)
+97. Adventures of Tom Sawyer (Mark Twain)
+98. And Then There Were None
+99. The Count of Monte Cristo
+100. American Gods (Neil Gaiman)
+101. The Grapes of Wrath (John Steinbeck)
+102. Unbroken (Laura Hillenbrand)
+103. One Hundred Years of Solitude
+104. Catch-22 (Joseph Heller)
+105. Hamlet
+106. A Time to Kill
+107. If I Stay (Gayle Forman)
+108. Room (Emma Donoghue)
+109. The Road (Cormac McCarthy)
+110. Anne of Green Gables
+111. The Scarlet Letter (Nathaniel Hawthorne)
+112. Dune
+113. Big Little Lies (Liane Moriarty)
+114. Freakonomics
+115. The Goldfinch
+116. The Name of the Wind (Patrick Rothfuss)
+117. Wonder
+118. The Tipping Point (Malcom Gladwell)
+119. Les Miserables (Victor Hugo)
+120. The Stranger (Albert Camus)
+121. The Poisonwood Bible (Barbara Kingsolver)
+122. A Walk to Remember
+123. MacBeth
+124. Lolita
+125. Anna Karenina
+126. Confessions of a Shopaholic
+127. Cinder
+128. Matched
+129. The Night Circus
+130. Clockwork Angel
+131. Great Expectations
+132. The Pillars of the Earth (Ken Follett)
+133. Charlie and the Chocolate Factory (Roald Dahl)
+134. One Flew Over the Cuckoo's Nest
+135. Sisterhood of the Traveling Pants (Ann Brashares)
+136. Emma
+137. Girl With a Pearl Earring (Tracy Chevalier)
+138. Me Talk Pretty One Day (David Sedaris)
+139. Sharp Objects (Gillian Flynn)
+140. The Nightingale (Kristin Hannah)
+141. The Joy Luck Club
+142. The Stand
+143. Crime and Punishment
+144. Metamorphosis
+145. Green Eggs and Ham (Dr. Seuss)
+146. Matilda
+147. A Christmas Carol
+148. Deception Point
+149. Middlesex
+150. The Guernsey Literary and Potato Peel Pie Society
+151. Wild; From Lost to Found on the Pacific Crest Trail
+152. Wicked
+153. A Clockwork Orange (Anthony Burgess)
+154. Five People You Meet in Heaven
+155. The Memory Keeper's Daughter
+156. The Bell Jar (Sylvia Plath)
+157. The Firm (John Grisham)
+158. Hush Hush
+159. The Immortal Life of Henrietta Lacks
+160. Uglies (Scott Westerfeld)
+161. Digital Fortress (Dan Brown)
+162. Siddhartha
+163. Eleanor Oliphant Is Completely Fine (Gail Honeyman)
+164. Where the Crawdads Sing (Delia Owens)
+165. Dark Places
+166. Vampire Academy
+167. Fangirl
+168. Educated (Tara Westover)
+169. Dear John
+170. Beautiful Creatures (Kami Garcia)
+171. Beautiful Disaster
+172. Throne of Glass (Sarah J. Maas)
+173. Divine Secrets of the Ya-Ya Sisterhood
+174. Angela's Ashes
+175. The Shack
+176. How to Win Friends and Influence People (Dale Carnegie)
+177. The Red Tent (Anita Diamant)
+178. The Last Song
+179. Persuasion
+180. In Cold Blood
+181. A Man Called Ove (Fredrik Backman)
+182. The Husband's Secret
+183. Something Borrowed
+184. Red Queen (Victoria Aveyard)
+185. Outliers (Malcolm Gladwell)
+186. Dead Until Dark (Charlaine Harris)
+187. The Gunslinger (Stephen King)
+188. Good Omens (Terry Pratchett)
+189. The Color Purple (Alice Walker)
+190. Carrie
+191. The Devil in the White City
+192. Watchmen
+193. Speak
+194. Fight Club
+195. Fallen
+196. One for the Money
+197. Artemis Fowl
+198. Little Fires Everywhere (Celeste Ng)
+199. The 7 Habits of Highly Effective People (Stephen Covey)
+200. Interview With the Vampire (Anne Rice)
+201. Moby Dick (Herman Melville)
+202. Misery (Stephen King)
+203. The Boy in the Striped Pajamas
+204. Blink
+205. The Cuckoo's Calling
+206. The Ocean at the End of the Lane
+207. Flowers for Algernon
+208. Coraline
+209. Bared to You
+210. Where'd You Go Bernadette
+211. The Art of Racing in the Rain
+212. Marley and Me
+213. Never Let Me Go (Kazuo Ishiguro)
+214. A Midsummer Night's Dream
+215. An Abundance of Katherines
+216. Atonement (Ian Mcewan)
+217. The Shadow of the Wind
+218. Shiver
+219. Bridge to Terabithia (Katherine Paterson)
+220. Marked
+221. Number the Stars
+222. Rebecca (Daphne Du Maurier)
+223. We Were Liars
+224. Watership Down
+225. The Graveyard Book
+226. The Rosie Project
+227. World War Z
+228. Delirium
+229. East of Eden
+230. Sarah's Key
+231. Neverwhere
+232. Is Everyone Hanging Out Without Me? (And Other Concerns)
+233. Yes Please (Amy Poehler)
+234. To All the Boys I've Loved Before (Jenny Han)
+235. 11/22/63
+236. The Subtle Art of Not Giving a F*ck (Mark Manson)
+237. The Cat in the Hat (Dr. Seuss)
+238. Legend (Marie Lu)
+239. Pet Sematary
+240. Heart of Darkness
+241. The Hate U Give (Angie Thomas)
+242. The Time Machine (H.G. Wells)
+243. Love in the Time of Cholera
+244. Along Came a Spider
+245. Foundation (Iaac Asimov)
+246. The Tales of Beedle the Bard (J.K. Rowling - 2007)
+247. Treasure Island (Robert Louis Stevenson)
+248. The Client (John Grisham)
+249. Ella Enchanted
+250. A Court of Thorns and Roses (Sarah J. Mass)
+251. Diary of a Wimpy Kid
+252. The Light Between Oceans (M.L. Stedman)
+253. I Know Why the Caged Bird Sings
+254. A Tree Grows in Brooklyn
+255. The Very Hungry Caterpillar
+256. Extremely Loud and Incredibly Close
+257. The Bad Beginning
+258. I Am Malala (Malala Yousafzai)
+259. Into Thin Air (Jon Krakauer)
+260. The 5th Wave
+261. Becoming (Michelle Obama)
+262. A Child Called It
+263. Graceling
+264. A Light in the Attic (Shel Silverstein)
+265. Can You Keep a Secret (Kinsella, Sophie)
+266. The Eye of the World
+267. When Breath Becomes Air (Paul Kalanithi)
+268. The Nanny Diaries
+269. The Final Empire (Brandon Sanderson)
+270. The Sun Also Rises
+271. James and the Giant Peach
+272. The Pelican Brief
+273. Orphan Train
+274. Anna and the French Kiss
+275. The Strange Case of Dr. Jekyll and Mr. Hyde (Robert Louis Stevenson)
+276. Inkheart
+277. Sapiens (Yuval Noah Harari)
+278. The Wonderful Wizard of Oz
+279. Atlas Shrugged
+280. Running With Scissors
+281. All Quiet on the Western Front
+282. Who Moved My Cheese? (Spencer Johnson)
+283. A Discovery of Witches
+284. The BFG
+285. Stardust
+286. The Iliad
+287. Snow Flower and the Secret Fan
+288. The Woman in the Window (A. J. Finn)
+289. A Walk in the Woods
+290. Cutting for Stone (Abraham Verghese)
+291. On the Road
+292. Man's Search for Meaning (Viktor Frankl)
+293. Cat's Cradle (Kurt Vonnegut)
+294. P.S. I Love You
+295. What Alice Forgot (Liane Moriarty)
+296. Where the Red Fern Grows
+297. Safe Haven
+298. The Lucky One
+299. Everything Everything (Nicola Yoon)
+300. Three Cups of Tea
+301. Like Water for Chocolate
+302. Will Grayson, Will Grayson
+303. Do Androids Dream of Electric Sheep?
+304. White Oleander
+305. The Secret
+306. The Unbearable Lightness of Being
+307. Under the Tuscan Sun (Frances Mayes)
+308. The Godfather
+309. Salem's Lot (Stephen King)
+310. How the Grinch Stole Christmas!
+311. The Screwtape Letters (C.S. Lewis)
+312. Call of the Wild (Jack London)
+313. Oh, the Places You'll Go
+314. The Woman in Cabin 10 (Ruth Ware)
+315. She's Come Undone
+316. The Crucible
+317. Norwegian Wood
+318. I Am Number Four
+319. The Thorn Birds (Colleen McCullough)
+320. Rich Dad Poor Dad
+321. Oliver Twist
+322. The Tattooist of Auschwitz (Heather Morris)
+323. Beloved (Toni Morrison)
+324. Othello
+325. A Study in Scarlet (Arthur Conan Doyle)
+326. Perfume
+327. The Casual Vacancy
+328. The Color of Magic (Terry Pratchett)
+329. Nineteen Minutes
+330. The Art of War
+331. The Last Lecture (Randy Pausch)
+332. Daughter of Smoke and Bone
+333. The Great Alone (Kristin Hannah)
+334. Quiet (Susan Cain)
+335. The Power of Habit (Charles Duhigg)
+336. The Importance of Being Earnest
+337. John Adams
+338. Fountainhead
+339. The Witches
+340. Still Alice (Lisa Genova)
+341. Before We Were Yours (Lisa Wingate)
+342. Fear and Loathing in Las Vegas (Hunter S. Thompson)
+343. Goodnight Moon
+344. 1st to Die (James Patterson)
+345. Before I Fall
+346. Hatchet
+347. Northanger Abbey
+348. Crazy Rich Asians (Kevin Kwan)
+349. I Know This Much Is True
+350. Milk and Honey (Rupi Kaur)
+351. And the Mountains Echoed
+352. Stargirl
+353. The Name of the Rose
+354. A Prayer for Owen Meany
+355. Drawing on the Right Side of the Brain - Betty Edwards
+356. The Story of Art (E.H. Gombrich)
+357. In the Woods (Tara French)
+358. Dark Lover (JR Ward)
+359. Island of the Blue Dolphins
+360. One Day
+361. Station Eleven (Emily St John Mandel)
+362. Good in Bed
+363. Everything I Never Told You (Celeste Ng)
+364. Born a Crime (Trevor Noah)
+365. Kafka on the Shore
+366. Mere Christianity
+367. The Couple Next Door (Shari Lapena)
+368. Mansfield Park
+369. A Short History of Nearly Everything
+370. The Secret History
+371. Before I Go to Sleep (S.J. Watson)
+372. Storm Front
+373. A Brief History of Time
+374. Heaven Is for Real (Todd Burpo)
+375. Stranger in a Strange Land
+376. The Lorax
+377. The 5 Love Languages: The Secret to Love That Lasts (Gary Chapman)
+378. The Pact
+379. Guns, Germs, and Steel
+380. Hillbilly Elegy (JD Vance)
+381. The Thirteenth Tale (Diane Setterfield)
+382. Shatter Me
+383. A Little Princess
+384. The Three Musketeers (Alexandre Dumas)
+385. The Way of Kings
+386. Turtles All the Way Down (John Green)
+387. I, Robot (Isaac Asimov)
+388. Fried Green Tomatoes at the Whistle Stop Café
+389. The Runaway Jury
+390. Evermore
+391. Hotel on the Corner of Bitter and Sweet
+392. A Streetcar Named Desire (Tennessee Williams)
+393. Thinking Fast and Slow
+394. Red Dragon
+395. Shadow and Bone
+396. Winnie the Pooh (A.A. Milne)
+397. A Farewell to Arms
+398. Behind Closed Doors (B a PARIS)
+399. The Paris Wife
+400. Hopeless
+401. Peter Pan
+402. V for Vendetta
+403. Neuromancer
+404. The Undomestic Goddess
+405. The Underground Railroad (Colson Whitehead)
+406. The Invention of Wings
+407. War and Peace
+408. Fall of Giants
+409. The Life Changing Magic of Tidying Up (Marie Kondo)
+410. Under the Dome (Stephen King)
+411. All the Bright Places (Jennifer Niven)
+412. Their Eyes Were Watching (Zora Neale Hurston)
+413. Simon Vs the Homo Sapiens Agenda (Becky Albertalli)
+414. 2001: A Space Odyssey (Arthur C. Clarke)
+415. Defending Jacob (William Landay)
+416. For Whom the Bell Tolls (Ernest Hemingway)
+417. Odd Thomas
+418. If You Give a Mouse a Cookie (Laura Numeroff)
+419. The Hiding Place
+420. The Things They Carried (Tim O'Brien)
+421. The Prince
+422. Maus (Art Spiegelman)
+423. The Raven Boys
+424. Six of Crows (Leigh Bardugo)
+425. Into the Water (Paula Hawkins)
+426. The Historian
+427. Dress Your Family in Corduroy and Denim
+428. The Green Mile
+429. Robinson Crusoe (Daniel Defoe)
+430. Perfect Chemistry (Simone Elkeles)
+431. Madame Bovary
+432. The City of Ember
+433. I'll Give You the Sun (Jandy Nelson)
+434. Where the Heart Is
+435. Small Great Things (Jodi Picoult)
+436. Bel Canto (Ann Patchett)
+437. Killing Floor (Lee Child)
+438. Naked
+439. The War of the Worlds
+440. Tess of the D'urbervilles - Thomas Hardy
+441. Just Listen
+442. Go Ask Alice (Anonymous)
+443. The Princess Diaries (Meg Cabot)
+444. The God of Small Things (Arundhati Roy)
+445. The Namesake
+446. The Phantom Tollbooth
+447. Black Beauty
+448. The Brothers Karamazov
+449. Snow Crash
+450. Saga (Brian K. Vaughan)
+451. The Silent Patient (Alex Michaelides)
+452. American Psycho (Bret Easton Ellis)
+453. Americanah (Chimamanda Ngozi Adichie)
+454. The Mysterious Affair at Styles (Agatha Christie)
+455. Circe (Madeline Miller)
+456. The No. 1 Ladies' Detective Agency, by Alexander McCall Smith
+457. The Kitchen House
+458. Wizard's First Rule (Terry Goodkind)
+459. The Brief Wondrous Life of Oscar Wao
+460. A Confederacy of Dunces (John Kennedy Toole)
+461. Beowulf
+462. Gulliver's Travels
+463. Little Bee (Chris Cleave)
+464. A Gentleman in Moscow (Amor Towles)
+465. Little House in the Big Woods
+466. The Clan of the Cave Bear (Jean Auel)
+467. The Virgin Suicides (Jeffrey Eugenides)
+468. The Master and Margarita
+469. The Good Earth (Pearl S. Buck)
+470. The God Delusion
+471. The Magicians
+472. The Prophet (Kahlil Gibran)
+473. A Wizard of Earthsea (Ursula Le Guin)
+474. The Purpose Driven Life (Rick Warren)
+475. The Absolutely True Diary of a Part-Time Indian (Sherman Alexie)
+476. Assassin's Apprentice (Robin Hobb)
+477. Aristotle and Dante Discover the Secrets of the Universe
+478. Breakfast of Champions (Kurt Vonnegut)
+479. Cold Mountain (Charles Frazier)
+480. Tuck Everlasting (Natalie Babbitt)
+481. Red Rising (Pierce Brown)
+482. Truly Madly Guilty (Liane Moriarty)
+483. Mr Mercedes (Stephen King)
+484. A Million Little Pieces
+485. Remember Me
+486. Ways of Seeing
+487. Obsidian
+488. Message in a Bottle
+489. The Velveteen Rabbit
+490. Candide
+491. Cujo
+492. Easy
+493. The Andromeda Strain (Michael Crichton)
+494. The Trial (Franz Kafka)
+495. Oryx and Crake (Margaret Atwood)
+496. Midnight in the Garden of Good and Evil
+497. Dark Matter (Blake Crouch)
+498. Mrs Dalloway (Virginia Woolf)
+499. Much Ado About Nothing (William Shakespeare)
+500. Kitchen Confidential (Anthony Bourdain)
+501. The Complete Stories and Poems of Edgar Allen Poe
+502. The Truth About Forever
+503. On Writing
+504. Alice's Adventures in Wonderland
+505. The Polar Express (Chris Van Allsburg)
+506. Cloud Atlas (David Mitchell)
+507. Lean In
+508. Breakfast at Tiffany's
+509. Beneath a Scarlet Sky (Mark Sullivan)
+510. Post Mortem (Patricia Cornwell)
+511. The Wind-Up Bird Chronicle
+512. Are You My Mother?
+513. Slammed (Colleen Hoover)
+514. The Angel Experiment (Maximum Ride)
+515. A Great and Terrible Beauty
+516. Its Kind of a Funny Story (Ned Vizzini)
+517. Walking Dead
+518. The World According to Garp, by John Irving
+519. Redeeming Love (Francine Rivers)
+520. Wall and Peace (Banksy)
+521. The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics (Daniel James Brown)
+522. Batman: Year One
+523. The Martian Chronicles
+524. Fast Food Nation
+525. The Lies of Locke Lamora (Scott Lynch)
+526. Needful Things
+527. The Hundred Year Old Man (Jonas Jonasson)
+528. Left Behind
+529. An American Marriage (Tayari Jones)
+530. Don Quixote
+531. In Her Shoes (Jennifer Weiner)
+532. The Lean Startup
+533. The Sandman Preludes and Nocturnes
+534. The Tale of Peter Rabbit
+535. The Storied Life of A.J. Fikry
+536. Love You Forever
+537. David Copperfield
+538. Life After Life
+539. Because of Winn-Dixie (Kate Dicamillo)
+540. Language of Flowers (Vanessa Diffenbaugh)
+541. Jonathan Livingston Seagull (Richard Bach)
+542. The Phantom of the Opera (Gaston Leroux)
+543. Christine (Stephen King)
+544. A Monster Calls
+545. The Prince of Tides
+546. In a Dark Dark Wood (Ruth Ware)
+547. Howl's Moving Castle (Diana Wynne Jones)
+548. Every Day (David Levithan)
+549. Uncle Tom's Cabin (Harriet Beecher Stowe)
+550. Madeline
+551. Zen and the Art of Motorcycle Maintenance
+552. A Separate Peace
+553. Jonathan Strange and Mr Norrell
+554. The Forgotten Garden (Kate Morton)
+555. I've Got Your Number (Sophie Kinsella)
+556. Mists of Avalon (Marion Zimmer Bradley)
+557. Unwind
+558. The Lincoln Lawyer (Michael Connelly)
+559. Cell (Stephen King)
+560. Twenty Thousand Leagues Under the Sea
+561. The Remains of the Day (Kazuo Ishiguro)
+562. Corduroy
+563. 1Q84
+564. Along for the Ride
+565. Sophie's World
+566. Choke
+567. Iron King
+568. Pretty Little Liars (Sara Shepard)
+569. Timeline (Michael Crichton)
+570. Canterbury Tales (Geoffrey Chaucer)
+571. The Autobiography of Malcolm X
+572. Are You There God? It's Me, Margaret.
+573. Franny and Zooey (J.D. Salinger)
+574. Beartown (Fredrik Backman)
+575. Starship Troopers (Robert A. Heinlein)
+576. Darkly Dreaming Dexter (Jeff Lindsay)
+577. From the Mixed-Up Files of Mrs. Basil E. Frankweiler (E. L. Koningsburg)
+578. The Amazing Adventures of Kavalier & Clay (Michael Chabon)
+579. The Pearl
+580. The Passage (Justin Cronin)
+581. Good Girl (Mary Kubica)
+582. Firestarter
+583. Patriot Games
+584. Norse Mythology (Neil Gaiman)
+585. Dreams From My Father (Barack Obama)
+586. The Girl With All the Gifts (M R Carey)
+587. Blindness
+588. When You Are Engulfed in Flames (David Sedaris)
+589. Firefly Lane
+590. Death Note (Takeshi Obata, Tsugumi Ohba)
+591. Between the World and Me (Ta-Nehisi Coates)
+592. Nine Perfect Strangers (Liane Moriarty)
+593. Orange Is the New Black by Piper Kerman
+594. The Power of Now
+595. Lilac Girls (Martha Hall Kelly)
+596. The Wife Between Us (Greer Hendricks and Sarah Pekenan)
+597. The Circle (Dave Eggers)
+598. Nickel and Dimed
+599. 1776 (David McCullough)
+600. A People's History of the United States
+601. It Ends With Us (Colleen Hoover)
+602. The Alice Network (Kate Quinn)
+603. Gone
+604. House of the Spirits
+605. The DUFF Designated Ugly Fat Friend
+606. Sabriel
+607. The Omnivore's Dilemma (Michael Pollan)
+608. Girl Interrupted (Susanna Kaysen)
+609. Death of a Salesman
+610. Steal Like an Artist: 10 Things Nobody Told You About Being Creative
+611. Around the World in Eighty Days
+612. King Lear
+613. I'd Tell You I Love You, but Then I'd Have to Kill You
+614. Hyperion
+615. The Wind in the Willows (Kenneth Grahame)
+616. The Four Agreements
+617. The Exorcist
+618. This Lullaby
+619. Beastly (Alex Flinn)
+620. My Brilliant Friend (Elena Ferrante)
+621. Carry on (Rainbow Rowell)
+622. Heidi
+623. A Visit From the Goon Squad
+624. High Fidelity (Nick Hornby)
+625. The Dead Zone
+626. A Little Life (Hanya Yanagihara)
+627. Mr. Penumbra's 24-Hour Bookstore
+628. Wallbanger (Alice Clayton)
+629. Alexander and the Terrible, Horrible, No Good, Very Bad Day (Judith Viorst)
+630. Bag of Bones (Stephen King)
+631. A Darker Shade of Magic (V.E. Schwab)
+632. Different Seasons (Stephen King)
+633. The Awakening
+634. Thinner (Stephen King as Richard Bachman)
+635. The Rescue
+636. A Heartbreaking Work of Staggering Genius
+637. The Reader (Bernhard Schlink)
+638. The Song of Achilles by Madeline Miller
+639. On Dublin Street (Samantha Young)
+640. Moon Called
+641. Just Kids (Patti Smith)
+642. Oedipus Rex
+643. The Tempest
+644. Stiff
+645. Veronika Decides to Die
+646. Scott Pilgrim's Precious Little Life
+647. Everything Is Illuminated (Jonathan Safran Foer)
+648. The True Story of the Three Little Pigs (Jon Sccieszka)
+649. The Hunchback of Notre Dame
+650. Why Not Me? (Mindy Kaling)
+651. The Storyteller
+652. Mrs. Frisby and the Rats of NIMH (Robert C. O'Brien)
+653. Snow Falling on Cedars
+654. Hyperbole and a Half by Allie Brosh
+655. The Rainmaker
+656. Julius Caesar
+657. State of Wonder (Ann Patchett)
+658. Attachments
+659. Batman: The Killing Joke
+660. An Ember in the Ashes (Sabaa Tahir)
+661. The Guardian
+662. Normal People (Sally Rooney)
+663. Plain Truth
+664. Naked in Death
+665. Sphere (Michael Crichton)
+666. The Man in the High Castle (Philip K. Dick)
+667. Elantris
+668. Pippi Longstocking
+669. Fallen Too Far (Abbi Glines)
+670. Maybe Someday (Colleen Hoover)
+671. Batman: The Dark Knight Returns
+672. Long Way Gone
+673. Modern Romance (Aziz Ansari)
+674. The Cider House Rules
+675. Ugly Love (Colleen Hoover)
+676. Born to Run (Christopher McDougall)
+677. Angelfall
+678. The Invention of Hugo Cabret (Brian Selznick)
+679. Smile (Raina Telgemeier)
+680. Pachinko (Min Jin Lee)
+681. The Republic
+682. A Is for Alibi
+683. The Sound and the Fury
+684. Interpreter of Maladies (Jhumpa Lahiri)
+685. Men Are From Mars, Women Are From Venus
+686. The Girls (Emma Cline)
+687. Beautiful Ruins (Jess Walter)
+688. The Westing Game
+689. Brain on Fire
+690. Merchant of Venice (Oxford Shakespeare)
+691. The Man Who Mistook His Wife for a Hat
+692. One Fish Two Fish Red Fish Blue Fish
+693. Congo (Michael Crichton)
+694. The Neverending Story
+695. Let's Pretend This Never Happened: A Mostly True Memoir (Jenny Lawson)
+696. The Corrections (Jonathan Franzen)
+697. Love the One You're With (Emily Giffin)
+698. Twelfth Night
+699. The Tale of Despereaux (Kate Dicamillo)
+700. The Summoning
+701. Wool
+702. The Bluest Eye
+703. Shutter Island
+704. Nights in Rodanthe
+705. Are You There, Vodka? It's Me, Chelsea (Chelsea Handler)
+706. Artemis (Andy Weir)
+707. The White Tiger
+708. Invisible Man
+709. In the Garden of Beasts
+710. Shantaram
+711. The Taming of the Shrew
+712. Pretty Girls (Karin Slaughter)
+713. Midwives
+714. Under the Banner of Heaven
+715. Waiting for Godot
+716. Landline (Rainbow Rowell)
+717. The Sun Is Also a Star (Nicola Yoon)
+718. The Choice
+719. Between Shades of Gray
+720. Persepolis
+721. The Blade Itself
+722. We Need to Talk About Kevin
+723. Flowers in the Attic
+724. The Unbecoming of Mara Dyer
+725. Baby Proof (Emily Giffin)
+726. Wicked Lovely
+727. The Bone Collector
+728. Twenties Girl
+729. Freedom
+730. The 4-Hour Workweek
+731. Darkfever
+732. One of Us Is Lying (Karen M. Mcmanus)
+733. Old Man's War (John Scalzi)
+734. The Nest (Cynthia D'Aprix Sweeney)
+735. Lady Midnight (Cassandra Clare)
+736. Walk Two Moons
+737. Watchers
+738. Julie and Julia (Julie Powell)
+739. A Room With a View
+740. Lamb (Christopher Moore)
+741. Dreamcatcher
+742. Walden (Henry David Thoreau)
+743. Wolf Hall
+744. Call Me by Your Name
+745. Daisy Jones & the Six (Taylor Jenkins Reid)
+746. Leviathan Wakes (James S.A. Corey)
+747. The Silver Linings Playbook (Pennsylvania)
+748. The Knife of Never Letting Go
+749. A New Earth
+750. Beautiful Bastard
+751. The Black Echo (Michael Connelly)
+752. Olive Kitteridge
+753. Zero to One: Notes on Startups, or How to Build the Future (Peter Thiel, Blake Masters)
+754. Uprooted (Naomi Novik)
+755. Trainspotting
+756. The Unlikely Pilgrimage of Harold Fry (Rachel Joyce)
+757. Bleach (Tite Kubo)
+758. Brown Bear, Brown Bear, What Do You See?
+759. Surely You're Joking, Mr. Feynman! (Richard Feynman)
+760. The Way of Shadows (Brent Weeks)
+761. Crazy Love (Francis Chan)
+762. The Elegance of the Hedgehog (Muriel Barberry)
+763. The Sense of an Ending
+764. White Fang
+765. Team of Rivals: The Political Genius of Abraham Lincoln
+766. The Complete Grimm's Fairy Tales (Jacob & Wilhelm Grimm)
+767. House Rules
+768. Eleven Minutes
+769. Roots
+770. The Plague
+771. The Edge of Never
+772. Fruits Basket (Natsuki Takaya)
+773. We Should All Be Feminists (Chimamanda Ngozi Adichie)
+774. The Summer I Turned Pretty
+775. Night Shift
+776. Shogun by James Clavell
+777. Gabriel's Inferno
+778. Girl, Wash Your Face (Rachel Hollis)
+779. Lonesome Dove
+780. Annihilation
+781. The Best of Me
+782. Lock and Key
+783. Journey to the Center of the Earth (Jules Verne)
+784. One Plus One (Jojo Moyes)
+785. The Joy of Cooking (Irma S. Rombauer, Marion Rombauer Becker)
+786. The Alienist
+787. Chicka Chicka BOOM BOOM!
+788. The Cruel Prince (Holly Black)
+789. Steelheart (Brandon Sanderson)
+790. Seabiscuit
+791. Suzanne's Diary for Nicholas
+792. Homegoing (Yaa Gyasi)
+793. Sh*T My Dad Says (Justin Halpern)
+794. Ouran High School Host Club Vol. 1 (Bisco Hatori)
+795. Half Broke Horses
+796. The Darkest Minds
+797. David and Goliath
+798. A Bend in the Road by Nicholas Sparks
+799. Schindler's List
+800. No Country for Old Men
+801. The Haunting of Hill House (Shirley Jackson)
+802. Naruto (Masashi Kishimoto)
+803. North and South (Elizabeth Gaskell)
+804. The Sweetness at the Bottom of the Pie
+805. My Grandmother Asked Me to Tell You She's Sorry (Frederik Backman)
+806. The Age of Innocence (Edith Wharton)
+807. Then She Was Gone (Lisa Jewell)
+808. The Happiness Project
+809. The Outsider (Stephen King)
+810. The Alchemyst
+811. Poison Study
+812. Rules of Civility
+813. Shanghai Girls (Lisa See)
+814. Luckiest Girl Alive (Jessica Knoll)
+815. The Seven Husbands of Evelyn Hugo (Taylor Jenkins Reid)
+816. The Murder at the Vicarage (Agatha Christie)
+817. Thoughtless (S.C. Stephens)
+818. The Audacity of Hope (Barack Obama)
+819. The Bean Trees (Barbara Kingsolver)
+820. The Art Book (Phaidon Press Editors)
+821. The Power (Naomi Alderman)
+822. Rework
+823. The Blind Assassin (Margaret Atwood)
+824. As I Lay Dying (William Faulkner)
+825. The Girls' Guide to Hunting and Fishing
+826. Wait for You (J. Lynn)
+827. Halfway to the Grave
+828. Leaving Time
+829. Insomnia (Stephen King)
+830. Commonwealth (Ann Patchett)
+831. Middlemarch
+832. Blue Bloods
+833. Witch of Blackbird Pond
+834. The Forever War (Joe Haldeman)
+835. The Year of Magical Thinking
+836. Guilty Pleasures (Laurel K Hamilton)
+837. Jaws (Peter Benchley)
+838. Major Pettigrew's Last Stand
+839. Tales of a Fourth Grade Nothing
+840. Nine Stories (J.D. Salinger)
+841. Big Magic (Elizabeth Gilbert)
+842. The Dry (Jane Harper)
+843. The Selfish Gene
+844. This Is Where I Leave You
+845. Angus, Thongs and Full-Frontal Snogging
+846. Still Life
+847. The Girl You Left Behind
+848. The Secret Keeper
+849. My Life Next Door
+850. I Am the Messenger
+851. Year of Wonders (Geraldine Brooks)
+852. Gerald's Game
+853. Hex Hall
+854. The Shipping News (E.Annie Proulx)
+855. Abraham Lincoln: Vampire Hunter
+856. The Invisible Man
+857. Anthem (Ayn Rand)
+858. The Big Short
+859. The Jungle (Upton Sinclair)
+860. The Story of My Life
+861. Rendezvous With Rama
+862. Cloudy With a Chance of Meatballs (Judi Barrett)
+863. Deja Dead
+864. The Goose Girl (Shannon Hale)
+865. Pride and Prejudice and Zombies
+866. Fables
+867. Steppenwolf
+868. Paradise Lost
+869. Fablehaven
+870. The Woman in White (Wilkie Collins)
+871. The Dinner (Herman Koch)
+872. The Surgeon (Tess Gerritsen)
+873. Portrait of the Artist as a Young Man
+874. The Hours (Michael Cunningham)
+875. The Girl Who Loved Tom Gordon
+876. Falling Up
+877. Crank
+878. The Immortalists (Chloe Benjamin)
+879. The Last Wish (Andrzej Sapkowski)
+880. Bad Blood (John Carreyrou)
+881. Colorless Tsukuru Tazaki and His Years of Pilgrimage (Haruki Murakami)
+882. About a Boy
+883. To the Lighthouse
+884. A Fine Balance (Rohinton Mistry)
+885. Curious George (H. A. Ray)
+886. Invisible Monsters
+887. Dragonflight
+888. Harold and the Purple Crayon
+889. For One More Day (Mitch Albom)
+890. Childhood's End (Arthur C. Clarke)
+891. Guess How Much I Love You
+892. Far From the Madding Crowd
+893. Eye of the Needle
+894. The Complete Fairy Tales (Hans Christian Andersen)
+895. House of Sand and Fog (Novel)
+896. Fun Home
+897. Dolores Claiborne
+898. People of the Book (Geraldine Brooks)
+899. Bird Box (Josh Malerman)
+900. The Chamber
+901. The Idiot (Fyodor Dostoevsky)
+902. The Deal (Elle Kennedy)
+903. The Tommyknockers
+904. Unearthly (Cynthia Hand)
+905. The Monster at the End of This Book
+906. Tell the Wolves Im Home
+907. A Beautiful Mind
+908. The History of Love (Nicole Krauss)
+909. I'll Be Gone in the Dark (Michelle McNamara)
+910. The Scarlet Pimpernel
+911. Caraval (Stephanie Garber)
+912. The Dark Half
+913. Reconstructing Amelia (Kimberly McCreight)
+914. Helter Skelter
+915. The One and Only Ivan
+916. Mystic River (Dennis Lehane)
+917. Einstein (Walter Isaacson)
+918. You (Caroline Kepnes)
+919. Good to Great
+920. Desperation
+921. Dubliners
+922. Winter Garden
+923. Attack on Titan (Hajime Isayama)
+924. The Three-Body Problem (Cixin Liu)
+925. My Antonia
+926. Getting Things Done
+927. Me and Earl and the Dying Girl
+928. The Deep End of the Ocean
+929. Confess (Colleen Hoover)
+930. The Bonesetter's Daughter
+931. Not That Kind of Girl (Lena Dunham)
+932. The Mysterious Benedict Society
+933. I Am Legend
+934. House of Leaves (Mark Z. Danielewski)
+935. White Teeth
+936. Contact
+937. Let's Explore Diabetes With Owls
+938. The Ruins of Gorlan
+939. Being Mortal
+940. The House on Mango Street (Sandra Cisneros)
+941. Psychopath Test (Jon Ronson)
+942. The Tenth Circle (Jodi Picoult)
+943. Maniac Magee (Jerry Spinelli)
+944. The Boxcar Children
+945. The Big Sleep
+946. Dirk Gently's Holistic Detective Agency (Douglas Adams)
+947. You Are a Badass (Jen Scncero)
+948. Vanity Fair
+949. Reading Lolita in Tehran
+950. Aesop's Fables
+951. Furiously Happy (Jenny Lawson)
+952. Fullmetal Alchemist (Hiromu Arakawa)
+953. Jemima J
+954. Children of Blood and Bone (Tomi Adyemi)
+955. What If (Randall Munroe)
+956. Pushing the Limits
+957. The Forty Rules of Love (Elif Shafak)
+958. Chronicle of a Death Foretold (Gabriel Garcia Marquez)
+959. The Snow Child (Eowyn Ivey)
+960. Rainbow Fish
+961. Across the Universe
+962. I Am Pilgrim (Terry Hayes)
+963. One Thousand White Women
+964. Life as We Knew It
+965. A Moveable Feast
+966. The Eyre Affair (Jasper Fforde)
+967. Alanna: The First Adventure
+968. All the Missing Girls (Megan Miranda)
+969. The Marriage Plot
+970. All Creatures Great and Small
+971. The Fifth Season (N. K. Jemisin)
+972. The Twits (Roald Dahl)
+973. Handle With Care
+974. The Amulet of Samarkand (Jonathon Stroud)
+975. One Day in December (Josie Silver)
+976. Among the Hidden
+977. The Long Walk
+978. Lincoln in the Bardo (George Saunders)
+979. Roll of Thunder, Hear My Cry
+980. The Coincidence of Callie & Kayden (Jessica Sorensen)
+981. Mary Poppins
+982. Daughter of Fortune
+983. Tell No One (Harlan Coben)
+984. The English Patient
+985. Day of the Jackal
+986. The Butterfly Garden (Dot Hutchinson)
+987. Homo Deus: A Brief History of Tomorrow (Yuval Noah Harari)
+988. Cannery Row
+989. Divine Comedy
+990. The Glass Menagerie
+991. The Mist
+992. Dead Witch Walking
+993. Night Before Christmas (Clement C. Moore)
+994. Chocolat (Joanne Harris)
+995. Vampire Knight
+996. Alexander Hamilton (Ron Chernow)
+997. Cosmos
+998. The Statistical Probability of Love at First Sight
+999. Under the Never Sky
+1000. The Partner (John Grisham)
