@@ -1,0 +1,13 @@
+D:\Projects\Showcase\ShowcaseProjects\BreakingIComparable\BreakingIComparable\bin\Debug\netcoreapp3.1\BreakingIComparable.exe
+D:\Projects\Showcase\ShowcaseProjects\BreakingIComparable\BreakingIComparable\bin\Debug\netcoreapp3.1\BreakingIComparable.deps.json
+D:\Projects\Showcase\ShowcaseProjects\BreakingIComparable\BreakingIComparable\bin\Debug\netcoreapp3.1\BreakingIComparable.runtimeconfig.json
+D:\Projects\Showcase\ShowcaseProjects\BreakingIComparable\BreakingIComparable\bin\Debug\netcoreapp3.1\BreakingIComparable.runtimeconfig.dev.json
+D:\Projects\Showcase\ShowcaseProjects\BreakingIComparable\BreakingIComparable\bin\Debug\netcoreapp3.1\BreakingIComparable.dll
+D:\Projects\Showcase\ShowcaseProjects\BreakingIComparable\BreakingIComparable\bin\Debug\netcoreapp3.1\BreakingIComparable.pdb
+D:\Projects\Showcase\ShowcaseProjects\BreakingIComparable\BreakingIComparable\obj\Debug\netcoreapp3.1\BreakingIComparable.csprojAssemblyReference.cache
+D:\Projects\Showcase\ShowcaseProjects\BreakingIComparable\BreakingIComparable\obj\Debug\netcoreapp3.1\BreakingIComparable.AssemblyInfoInputs.cache
+D:\Projects\Showcase\ShowcaseProjects\BreakingIComparable\BreakingIComparable\obj\Debug\netcoreapp3.1\BreakingIComparable.AssemblyInfo.cs
+D:\Projects\Showcase\ShowcaseProjects\BreakingIComparable\BreakingIComparable\obj\Debug\netcoreapp3.1\BreakingIComparable.csproj.CoreCompileInputs.cache
+D:\Projects\Showcase\ShowcaseProjects\BreakingIComparable\BreakingIComparable\obj\Debug\netcoreapp3.1\BreakingIComparable.dll
+D:\Projects\Showcase\ShowcaseProjects\BreakingIComparable\BreakingIComparable\obj\Debug\netcoreapp3.1\BreakingIComparable.pdb
+D:\Projects\Showcase\ShowcaseProjects\BreakingIComparable\BreakingIComparable\obj\Debug\netcoreapp3.1\BreakingIComparable.genruntimeconfig.cache
